@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Andrey</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+[https://readme-typing-svg.herokuapp.com/?color=%dcc083&lines=%D0%9A%D0%BE%D0%BC%D0%BF%D1%83%D1%85%D1%82%D0%B5%D1%80+%D1%81%D0%B0%D0%B9%D0%BD%D1%81+%D1%81%D1%82%D1%8C%D1%8E%D0%B4%D0%B5%D0%BD%D1%82+%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D1%81]()
+
 
 <!--
 **andrey8080/andrey8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
