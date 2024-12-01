@@ -33,31 +33,29 @@
 
 ## <img src="icons/cog.png" alt="stats" width="32" height="32" style="vertical-align: middle;"/> Стек технологий
 
-| **Категория**          | **Технологии**                                      |
-|-------------------------|----------------------------------------------------|
-| **Языки программирования** | Java, JavaScript, Python, C++                           |
-| **Фреймворки**          | Spring, React, Angular, Django                              |
-| **Базы данных**         | PostgreSQL, SQLite                                |
-| **Инструменты разработки** | Git, Docker, Linux                     |
-| **Системы CI/CD**       | GitHub Actions                           |
-| **Другие технологии**   | NumPy, Pandas, OpenCV, LaTeX                      |
-
+| **Категория**              | **Технологии**                 |
+| -------------------------- | ------------------------------ |
+| **Языки программирования** | Java, JavaScript, Python, C++  |
+| **Фреймворки**             | Spring, React, Angular, Django |
+| **Базы данных**            | PostgreSQL, SQLite             |
+| **Инструменты разработки** | Git, Docker, Linux             |
+| **Системы CI/CD**          | GitHub Actions                 |
+| **Другие технологии**      | LaTeX                          |
 
 ---
 
+<!-- Проекты -->
 
 ## <img src="icons/browsers.png" alt="stats" width="32" height="32" style="vertical-align: middle;"/> Проекты
 
-| **Название** | **Стек** | **Ссылка** |
-| --- | --- | :---: |
-| SpaceMarine | Java (Spring), Angular | <a href="https://github.com/andrey8080/SpaceMarine"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a> |
-| StackLispVM | Python | <a href="https://github.com/andrey8080/StackLispVM"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a> |
-| Particle Focusing | JavaScript | <a href="https://github.com/andrey8080/physics_project_focusing"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a> |
-| OtakuNote | Python (Django), JS | <a href="https://github.com/andrey8080/otaku_note"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a> |
-| Tranfermarkt Parser | Python, BS4 | coming soon |
-| OfflineEventPlatform | Java (Sping), Angular | coming soon |
-<!-- | Tranfermarkt Parser | Python, BS4 | <a href=""><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a> |
- -->
+| **Название**         | **Стек**               |                                                                             **Ссылка**                                                                             |
+| -------------------- | ---------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| SpaceMarine          | Java (Spring), Angular |       <a href="https://github.com/andrey8080/SpaceMarine"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a>        |
+| StackLispVM          | Python                 |       <a href="https://github.com/andrey8080/StackLispVM"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a>        |
+| Particle Focusing    | JavaScript             | <a href="https://github.com/andrey8080/physics_project_focusing"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a> |
+| OtakuNote            | Python (Django), JS    |        <a href="https://github.com/andrey8080/otaku_note"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a>        |
+| Tranfermarkt Parser  | Python, BS4            |   <a href="https://github.com/andrey8080/Tranfermarkt_parser"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a>    |
+| OfflineEventPlatform | Java (Sping), Angular  |                                                                            coming soon                                                                             |
 
 ---
 
