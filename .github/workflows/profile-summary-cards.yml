@@ -20,4 +20,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
           USERNAME: andrey8080
-          
