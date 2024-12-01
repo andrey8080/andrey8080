@@ -66,12 +66,12 @@
 </h2>
 <ul style="list-style: none; padding: 0;">
     <li>
-        <a href="mailto:andrey.dyachkov.d@gmail.com" style="text-decoration: none;">
+        <a href="mailto:andrey.dyachkov.d@gmail.com"  _blank style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32" style="vertical-align: middle; margin: 10 0 10 50" alt="Email">
         </a>
     </li>
     <li>
-        <a href="https://t.me/andro_nik_1" style="text-decoration: none;"> 
+        <a href="https://t.me/andro_nik_1" _blank style="text-decoration: none;"> 
             <img src="https://img.shields.io/badge/Telegram-0A66C2?style=flat-square&logo=telegram&logoColor=white" height="32" style="vertical-align: middle; margin: 10 0 10 50" alt="Telegram">
         </a>
     </li>
