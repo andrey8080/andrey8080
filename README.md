@@ -10,18 +10,18 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrey8080&theme=2077" alt="Profile Details">
 <table>
   <tr>
-    <td>
+    <td style="border: none">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrey8080&theme=2077" alt="Commit Languages">
     </td>
-    <td>
+    <td style="border: none">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrey8080&theme=2077" alt="Repo Languages">
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrey8080&theme=2077" alt="Daily Productivity">
     </td>
-    <td>
+    <td style="border: none">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrey8080&theme=2077" alt="Profile Stats">
     </td>
   </tr>
