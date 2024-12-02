@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0055&repeat=true&width=435&lines=%E2%84%8D%F0%9D%95%9A+%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%96%2C+%F0%9D%95%80'%F0%9D%95%9E+%F0%9D%94%B8%F0%9D%95%9F%F0%9D%95%95%F0%9D%95%A3%F0%9D%95%96%F0%9D%95%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0055&repeat=true&width=505&lines=ℍ𝕚+𝕥𝕙𝕖𝕣𝕖,+𝕀'𝕞+𝔻𝕪𝕒𝕔𝕙𝕜𝕠𝕧+𝔸𝕟𝕕𝕣𝕖𝕪)](https://git.io/typing-svg)
 
 ---
 
