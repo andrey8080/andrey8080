@@ -74,7 +74,7 @@
         </a>
     </li>
     <li>
-        <a href="www.linkedin.com/in/andrey-dyachkov" style="text-decoration: none;">
+        <a href="https://www.linkedin.com/in/andrey-dyachkov" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" style="vertical-align: middle; margin: 10 0 0 50" alt="LinkedIn">
         </a>
     </li>
