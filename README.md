@@ -73,9 +73,9 @@
             <img src="https://img.shields.io/badge/Telegram-0A66C2?style=flat-square&logo=telegram&logoColor=white" height="32" style="vertical-align: middle; margin: 10 0 10 50" alt="Telegram">
         </a>
     </li>
-    <!-- <li>
-        <a href="https://linkedin.com/in/your-profile" style="text-decoration: none;">
+    <li>
+        <a href="www.linkedin.com/in/andrey-dyachkov" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" style="vertical-align: middle; margin: 10 0 0 50" alt="LinkedIn">
         </a>
-    </li> -->
+    </li>
 </ul>
