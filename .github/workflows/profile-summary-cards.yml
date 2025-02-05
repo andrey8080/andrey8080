@@ -1,23 +1,22 @@
-name: GitHub-Profile-Summary-Cards
+# name: GitHub-Profile-Summary-Cards
 
-on:
-  create:
-  schedule:
-    - cron: "0 0 * * *" # Ежедневный запуск
-  workflow_dispatch: # Ручной запуск
+# on:
+#   create:
+#   schedule:
+#     - cron: "0 0 * * *" # Ежедневный запуск
+#   workflow_dispatch: # Ручной запуск
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-cards
-    permissions:
-      contents: write
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     name: generate-github-cards
+#     permissions:
+#       contents: write
   
-    steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: vn7n24fzkq/github-profile-summary-cards@release
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+#         with:
+#           USERNAME: ${{ github.repository_owner }}
