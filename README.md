@@ -37,10 +37,10 @@
 | -------------------------- | ------------------------------ |
 | **Языки программирования** | Java, JavaScript, Python, C++  |
 | **Фреймворки**             | Spring, React, Angular, Django |
-| **Базы данных**            | PostgreSQL, SQLite             |
+| **Базы данных**            | PostgreSQL, SQLite, Redis             |
 | **Инструменты разработки** | Git, Docker, Linux             |
 | **Системы CI/CD**          | GitHub Actions                 |
-| **Другие технологии**      | LaTeX                          |
+| **Другие технологии** | MinIO (s3), Elasticsearch |                         
 
 ---
 
@@ -55,7 +55,6 @@
 | Particle Focusing    | JavaScript             | <a href="https://github.com/andrey8080/physics_project_focusing"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a> |
 | OtakuNote            | Python (Django), JS    |        <a href="https://github.com/andrey8080/otaku_note"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a>        |
 | Tranfermarkt Parser  | Python, BS4            |   <a href="https://github.com/andrey8080/Tranfermarkt_parser"><img src="icons/web.png" alt="stats" width="25" height="25" style="vertical-align: middle;"/></a>    |
-| OfflineEventPlatform | Java (Sping), Angular  |                                                                            coming soon                                                                             |
 
 ---
 
